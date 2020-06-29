@@ -6,3 +6,12 @@ Zuerst mal geht es mir darum diese Aufgabe zu lösen. Meine Figur ist also nur e
 Eine Figur ohne Eigenschaften, die einfach nur da ist, erzeugt wurde um eine einzige Aufgabe zu erfüllen: Aufgabenerfüllung.
 
 
+## Eigenschaften
+
+* etwas farblos
+* macht keinen Lärm
+* unproblematisch
+* kann nicht gut mit Kindern
+* unauffällig
+
+
