@@ -20,3 +20,6 @@ Einen Satz kann ich mir vorstellen:
 
 > Ich habe mich immer als eine 
 > Person ohne Eigenschaften gefühlt
+
+
+<img src="https://images.booklooker.de/x/01QJyD/Robert-Musil+Der-Mann-ohne-Eigenschaften-Roman.jpg" />
