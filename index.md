@@ -15,3 +15,8 @@ Eine Figur ohne Eigenschaften, die einfach nur da ist, erzeugt wurde um eine ein
 * unauffällig
 
 
+
+Einen Satz kann ich mir vorstellen:
+
+> Ich habe mich immer als eine 
+> Person ohne Eigenschaften gefühlt
